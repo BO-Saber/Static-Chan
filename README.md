@@ -73,17 +73,18 @@ This project is the most hacky vibes kinda I saw this in my youtube recommendati
 
 ---
 # Design
-<img width="1253" height="663" alt="image" src="https://github.com/user-attachments/assets/05586e02-80c1-42fe-891c-3666948a68cf" />
+<img width="1253" height="663" alt="1777966827368-f2akwj" src="https://github.com/user-attachments/assets/c34bda91-0ee0-42bf-818a-06e273f71352" />
 
 ---
 # Circuit Diagram
-<img width="1280" height="720" alt="BLE JAMMER CIRCUICT DIAGRAM (1)" src="https://github.com/user-attachments/assets/28bf3b17-60af-4491-9f9e-b43b42dac66e" />
+<img width="1280" height="720" alt="BLE JAMMER CIRCUICT DIAGRAM (1)" src="https://github.com/user-attachments/assets/2de8d360-3324-48a1-a4bc-0baf43381b54" />
 
 ---
 # Robu.in Cart 
-<img width="926" height="742" alt="1777965253854-lpq105" src="https://github.com/user-attachments/assets/c132aa47-a1bc-4ed8-8334-67e67c7f47e7" />
+<img width="926" height="742" alt="1777965253854-lpq105" src="https://github.com/user-attachments/assets/0b7de671-9996-402a-a41b-67e686e3f9b0" />
 
 ---
 # Amazon.in Cart
-<img width="694" height="989" alt="1777970432657-n6p45b" src="https://github.com/user-attachments/assets/6cb332fe-4342-43c4-a95e-6c7162a94965" />
+<img width="694" height="989" alt="1777970432657-n6p45b" src="https://github.com/user-attachments/assets/c342b03d-76a0-4f4b-99bf-3d0319b23c14" />
+
 
