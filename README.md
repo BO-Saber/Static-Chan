@@ -3,6 +3,10 @@
 This project is the most hacky vibes kinda I saw this in my youtube recommendation, its a 2.4ghz wifi and bluetooth jammer/deauther. It uses a esp32 and three nRF24L01+PA+LNA which makes it crazy at max power.
 
 ---
+I have used a perf board as most of the components were not hving schematic and footprints 
+
+
+---
 <div>&nbsp;</div>
 
 <h2>Functionality Status and Reliability</h2>
