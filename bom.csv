@@ -1,20 +1,14 @@
-### Project Component List
-| Name | Purpose | Quantity | Total Cost (USD) | Distributor | Link |
-| --- | --- | --- | --- | --- | --- |
-| **ESP 32** | Main component used for coding the project | 1 | $8.00 | Amazon | [View Product](https://www.amazon.in/Robocraze-ESP32-Development-Board-Pin/dp/B0D6GDV77P) |
-| **Battery** | Powering the device | 1 | $5.66 | Robu | [View Product](https://robu.in/product/nova-955465-4000mah-3-7v-lipo-battery-pack) |
-| **NRF24L01+PA+LNA** | Wireless transceiver antenna | 3 | $4.36 | Robu | [View Product](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km) |
-| **WS2812B LED** | Lights | 1 | $0.19 | Robu | [View Product](https://robu.in/product/cjmcu-123-ws2811-rgb-led-breakout-module) |
-| **Wire** | For connection | 1 | $0.70 | Robu | [View Product](https://robu.in/product/multicolor-flat-ribbon-cable-10-cond-1meter?gad_campaignid=17427802559&gclid=Cj0KCQjw_IXQBhCkARIsADqELbKuULhcFlK9ijUEYZFptcwvR730UyFoILK6xPfjhmeyNSN90jIMHF8aAtWfEALw_wcB&gad_source=1&gbraid=0AAAAADvLFWdu-Mt-itkUoVJWBKhtpe7vo) |
-| **PCB** | Base of the project | 1 | $0.80 | Robu | [View Product](https://robu.in/product/9-x-15-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch?gbraid=0AAAAADvLFWc8KYA2P9rys69Cn8AIdljzz&gad_source=1&gad_campaignid=17427802703&gclid=Cj0KCQjw_IXQBhCkARIsADqELbJft8mpoTTl5YbWPNiFwb8Wwt9ifJcgFl6ZyYe0JLOQ7CM5nl-lOK8aApTuEALw_wcB) |
-| **0.96" OLED Display** | For screen | 1 | $2.24 | Amazon | [View Product](https://www.amazon.in/Display-Module-128x64-Interface-Screen/dp/B0DVT1N9JL) |
-| **Switch (Push)** | On/off | 1 | $0.50 | Robu | [View Product](https://robu.in/product/7x7mm-6-pin-dpdt-self-lock-lock-push-switch-10pcs) |
-| **TP4056 Module** | To charge the device | 1 | $0.38 | Robu | [View Product](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-mini-usb) |
-| **Soldering Flux** | For soldering | 1 | $0.26 | Robu | [View Product](https://robu.in/product/noel-flux-soldering-paste-10g) |
-| **Header Pin Female** | Connection | 2 | $0.20 | Robu | [View Product](https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10) |
-| **Pin Screw Terminal** | Connecting Battery | 1 | $0.17 | Robu | [View Product](https://robu.in/product/xy300va-5-0-xinya-2-pin-screw-terminal-blockgreen) |
-| **Tact Switch** | To navigate the features | 4 | $0.13 | Robu | [View Product](https://robu.in/product/tact-switch-tvdp01-6-0x6-0mm) |
-
----
-
-
+Name,Purpose,Quantity,Total Cost (USD),Distributor,Link
+ESP 32,Main component used for coding the project,1,8.00,Amazon,https://www.amazon.in/Robocraze-ESP32-Development-Board-Pin/dp/B0D6GDV77P
+Battery,Powering the device,1,5.66,Robu,https://robu.in/product/nova-955465-4000mah-3-7v-lipo-battery-pack
+NRF24L01+PA+LNA,Wireless transceiver antenna,3,4.36,Robu,https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km
+WS2812B LED,Lights,1,0.19,Robu,https://robu.in/product/cjmcu-123-ws2811-rgb-led-breakout-module
+Wire,For connection,1,0.70,Robu,https://robu.in/product/multicolor-flat-ribbon-cable-10-cond-1meter
+PCB,Base of the project,1,0.80,Robu,https://robu.in/product/9-x-15-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch
+0.96" OLED Display,For screen,1,2.24,Amazon,https://www.amazon.in/Display-Module-128x64-Interface-Screen/dp/B0DVT1N9JL
+Switch (Push),On/off,1,0.50,Robu,https://robu.in/product/7x7mm-6-pin-dpdt-self-lock-lock-push-switch-10pcs
+TP4056 Module,To charge the device,1,0.38,Robu,https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-mini-usb
+Soldering Flux,For soldering,1,0.26,Robu,https://robu.in/product/noel-flux-soldering-paste-10g
+Header Pin Female,Connection,2,0.20,Robu,https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10
+Pin Screw Terminal,Connecting Battery,1,0.17,Robu,https://robu.in/product/xy300va-5-0-xinya-2-pin-screw-terminal-blockgreen
+Tact Switch,To navigate the features,4,0.13,Robu,https://robu.in/product/tact-switch-tvdp01-6-0x6-0mm
