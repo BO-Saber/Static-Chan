@@ -1,14 +1,20 @@
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"Header Pin Female ","Connection ",2,0.20,"https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10","Robu"
-"Pin Screw Terminal ","Connecting Battery",1,0.17,"https://robu.in/product/xy300va-5-0-xinya-2-pin-screw-terminal-blockgreen?gbraid=0AAAAADvLFWfg75OjcC53z-wswdi5Dtsf7&gad_source=1&gclid=CjwKCAjwqubPBhBOEiwAzgZX2iYKEOpM3A14gO37lFhM3onWzaYw78m9ojMW5SQQ0n70c13JdFF0ERoCvfAQAvD_BwE&gad_campaignid=17427802703","Robu"
-"Wire","For connection ",1,2.50,"https://www.amazon.in/Steko-Multipurpose-Electronics-Science-Projects/dp/B0CW1Z15X6/ref=sr_1_13?crid=2CM1XIY1GOJ6A&dib=eyJ2IjoiMSJ9.qYYZxHohMU2OHwWuFZFo75FtWzc_7c227asTw94C2kHyjJGeg24bUsXWt-Khan2zuVqx-49WGtdiJE3xg9LsJReFALmRriUcOz5X2DMQPoMEptmXZIGgwXG8iwhkqXfNwIGfdl0ZhxiuX27AcSOMrlbdavH-I2SCwwWy-ixRvFnQDxkOeBvk66TTgoTC8SGx79aIaWBAlrKimH3y962FincddPTlV-lzHxogPuS1TI4Rz5P7pEzGv5V29LDxgQIQ01w2FWekOTuwV8ZCxIK5O35vPojfDu1abl3-stZ7xWA.K86pdvwmJLZQ81DFBIlJJLgUA12Y4z0hLQzV26w-hIY&dib_tag=se&keywords=wire+for+project&qid=1777970146&sprefix=wire+for+proje%2Caps%2C445&sr=8-13","Amazon"
-"Soldering flux","For soldering",1,0.26,"https://robu.in/product/noel-flux-soldering-paste-10g","Robu"
-"Battery","Powering the device",1,5.66,"https://robu.in/product/nova-955465-4000mah-3-7v-lipo-battery-pack","Robu"
-"Switch","On/off",1,0.50,"https://robu.in/product/7x7mm-6-pin-dpdt-self-lock-lock-push-switch-10pcs","Robu"
-"TP4056 Charging module","To charge the device",1,0.38,"https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-mini-usb","Robu"
-"Switch","to navigate the features",4,0.13,"https://robu.in/product/tact-switch-tvdp01-6-0x6-0mm","Robu"
-"WS2812B LED","lights ",1,3.66,"https://www.amazon.in/REES52%C2%AE-CJMCU-123-Breakout-Display-ardiuno/dp/B08PBX8TLT/ref=sr_1_9?crid=E4OT5G8H7HWX&dib=eyJ2IjoiMSJ9.dDrgajfBgjcSvVdZcnMG5z5LTvnvPs4OfQnUVGWkkybQfw1Qgy0htA8YCV-zNgICASu7bxSmKysr-GfYhxKO3sDxJPKTTCQ9sPLCZZWcLBUZwNlRunfr5jpbDM3SKl5lwLasVqmxlCjBnSfWU5L8IQ1YTx1Pa1W686F6PlJsr0Uj6s6M-Kv2Eg4C0sI8JTqTntN_Iy3mYJztd--vmcZGrR1y1hkJxz8KsPtPSCGtQHwDqP2blDHnKQ-PW1ET7stPX8TWGRCvQcMHZPiC1uFAcJjadtoRquh_pvxjOxirJXA.hmQcOYctUfBYaz1zU7CM8b07ZB7whz6CIyRH8T9ikGc&dib_tag=se&keywords=WS2812B+LED&qid=1777963207&sprefix=ws2812b+led%2Caps%2C498&sr=8-9","Amazon"
-"0.96 inch oled display","for screen ",1,2.24,"https://www.amazon.in/Display-Module-128x64-Interface-Screen/dp/B0DVT1N9JL/ref=sr_1_5?crid=Z2SNJEKZC4S9&dib=eyJ2IjoiMSJ9.DvximfGfRJglAMZ4jOPAihZwkRIAU9YGWHBv8mwTRQ5bNbuXO9plDLu57NtJsUdCijZNMC-nZeqfykS3eXHMW0a_K8SqxZ8NLAm2ua_CgLl3mRuplrUNsmro68cQRAdSqvkGQ5m7ysAPqoonNUlM-VyqGP2Xhed3eZYE9Y2SRvjt4hmrNNgNdNLNq3IoJ3JmIRthuuyTBAeuG-OPFW3akUhvroZEYZcflxca7g_mGL3SDUVFB6d7tskSqAG_EqrFeDfmP1VwE9tYf2nQebd6IB1E8IJza7LqyvYlpcG5KKk.iO5PoXrtg6pdEReClO9U7bZjabVVWWBE_urEP1bPWnc&dib_tag=se&keywords=0.96+inch+oled+display&qid=1777963034&sprefix=0.96+inch+oled+display%2Caps%2C439&sr=8-5","Amazon"
-"ESP 32","Main component used for coding the project",1,8.00,"https://www.amazon.in/Robocraze-ESP32-Development-Board-Pin/dp/B0D6GDV77P/ref=sr_1_1_sspa?crid=1VXNUXYR1IIR8&dib=eyJ2IjoiMSJ9.nLDcyOcaBbKxkXMJkvv2z01GJImEujR2geZU2sQLc6OSVprT_WUtuKysvhLezmciGVNj5SHPHGt5Ru0JQ_vZfWsWC1rSbpjMjEctmrHY21o07OlMJgiwjOAJd2t-qxyZZM7hXByztmPqyoO8Z4OaZ4VcEdIxdPIR2ekgVfdC-zkKT95jWoYr___xwNxErGBaZMPy5bQEM7YSRRvZZTGhA5Iktkw4ELxilY4S-Oyxzu8.cmXGVgursYElBO4038GhjTV2NHOB_-Uzbaa470dfWUo&dib_tag=se&keywords=esp32&qid=1777962752&sprefix=esp32%2Caps%2C433&sr=8-1-spons&aref=vyc6uxBrd4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1","Amazon"
-"2.4 ghz NRF24L01+PA+LNA SMA wireless tranceiver antenna","Antenna",3,4.36,"https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km","Robu"
-"PCB","Base of the project ",1,2.31,"https://www.amazon.in/xcluma-Double-Copper-Prototype-Universal/dp/B09MTPQVY5/ref=sr_1_11?crid=3DVA4AJZ5IXWH&dib=eyJ2IjoiMSJ9.Ve3HMNfxXnvQrWmKQYMNCZKrfkin0baF4iM9kzvdSOOPqQjlrBdeccPPvQ8NiKOZcxFQeOQMEoXPJDGSPF3jZJv7D5k6LwFmwQmaHIUuGK75zQJdE_gdKYfz-RsbqjI_-srqLG8FdenJ4aYvJm7Ad_V2___RSXpCx1wPO-fHe1vqCyRgTaBK9FZHFK-WH7pHoM7aMsAcnXWrvSZK5pYCF04TAXXXInC3cS0ZCPNXSEjxe1OZ3TRbSDkW2KiI0HKwlw7vtZK1jGOiJIieaXkgrU6S4qg6T_KPJxf7xU5ayhU.ImSlvNwi_kATzWHjaH4XxX74syBXbs4DV06SjytEMpo&dib_tag=se&keywords=perf+board&qid=1777970000&sprefix=perf+board+%2Caps%2C444&sr=8-11","Amazon"
+### Project Component List
+| Name | Purpose | Quantity | Total Cost (USD) | Distributor | Link |
+| --- | --- | --- | --- | --- | --- |
+| **ESP 32** | Main component used for coding the project | 1 | $8.00 | Amazon | [View Product](https://www.amazon.in/Robocraze-ESP32-Development-Board-Pin/dp/B0D6GDV77P) |
+| **Battery** | Powering the device | 1 | $5.66 | Robu | [View Product](https://robu.in/product/nova-955465-4000mah-3-7v-lipo-battery-pack) |
+| **NRF24L01+PA+LNA** | Wireless transceiver antenna | 3 | $4.36 | Robu | [View Product](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km) |
+| **WS2812B LED** | Lights | 1 | $0.19 | Robu | [View Product](https://robu.in/product/cjmcu-123-ws2811-rgb-led-breakout-module) |
+| **Wire** | For connection | 1 | $0.70 | Robu | [View Product](https://robu.in/product/multicolor-flat-ribbon-cable-10-cond-1meter?gad_campaignid=17427802559&gclid=Cj0KCQjw_IXQBhCkARIsADqELbKuULhcFlK9ijUEYZFptcwvR730UyFoILK6xPfjhmeyNSN90jIMHF8aAtWfEALw_wcB&gad_source=1&gbraid=0AAAAADvLFWdu-Mt-itkUoVJWBKhtpe7vo) |
+| **PCB** | Base of the project | 1 | $0.80 | Robu | [View Product](https://robu.in/product/9-x-15-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch?gbraid=0AAAAADvLFWc8KYA2P9rys69Cn8AIdljzz&gad_source=1&gad_campaignid=17427802703&gclid=Cj0KCQjw_IXQBhCkARIsADqELbJft8mpoTTl5YbWPNiFwb8Wwt9ifJcgFl6ZyYe0JLOQ7CM5nl-lOK8aApTuEALw_wcB) |
+| **0.96" OLED Display** | For screen | 1 | $2.24 | Amazon | [View Product](https://www.amazon.in/Display-Module-128x64-Interface-Screen/dp/B0DVT1N9JL) |
+| **Switch (Push)** | On/off | 1 | $0.50 | Robu | [View Product](https://robu.in/product/7x7mm-6-pin-dpdt-self-lock-lock-push-switch-10pcs) |
+| **TP4056 Module** | To charge the device | 1 | $0.38 | Robu | [View Product](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-mini-usb) |
+| **Soldering Flux** | For soldering | 1 | $0.26 | Robu | [View Product](https://robu.in/product/noel-flux-soldering-paste-10g) |
+| **Header Pin Female** | Connection | 2 | $0.20 | Robu | [View Product](https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10) |
+| **Pin Screw Terminal** | Connecting Battery | 1 | $0.17 | Robu | [View Product](https://robu.in/product/xy300va-5-0-xinya-2-pin-screw-terminal-blockgreen) |
+| **Tact Switch** | To navigate the features | 4 | $0.13 | Robu | [View Product](https://robu.in/product/tact-switch-tvdp01-6-0x6-0mm) |
+
+---
+
+
