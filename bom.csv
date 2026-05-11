@@ -5,7 +5,7 @@ NRF24L01+PA+LNA,Wireless transceiver antenna,3,4.36,Robu,https://robu.in/product
 WS2812B LED,Lights,1,0.19,Robu,https://robu.in/product/cjmcu-123-ws2811-rgb-led-breakout-module
 Wire,For connection,1,0.70,Robu,https://robu.in/product/multicolor-flat-ribbon-cable-10-cond-1meter
 PCB,Base of the project,1,0.80,Robu,https://robu.in/product/9-x-15-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch
-0.96" OLED Display,For screen,1,2.24,Amazon,https://www.amazon.in/Display-Module-128x64-Interface-Screen/dp/B0DVT1N9JL
+"0.96"" OLED Display",For screen,1,2.24,Amazon,https://www.amazon.in/Display-Module-128x64-Interface-Screen/dp/B0DVT1N9JL
 Switch (Push),On/off,1,0.50,Robu,https://robu.in/product/7x7mm-6-pin-dpdt-self-lock-lock-push-switch-10pcs
 TP4056 Module,To charge the device,1,0.38,Robu,https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-mini-usb
 Soldering Flux,For soldering,1,0.26,Robu,https://robu.in/product/noel-flux-soldering-paste-10g
